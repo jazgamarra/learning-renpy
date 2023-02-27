@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 14: expected 'simple_expression' not found.
-    zoom: 1.2 
-        ^
+File "game/script.rpy", line 3: expected 'word' not found.
+    define = Character('Jamin', color='#C92C6D')
+           ^
 
 Ren'Py Version: Ren'Py 8.0.1.0
-Sun Feb 26 00:28:15 2023
+Sun Feb 26 19:34:16 2023
